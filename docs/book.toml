@@ -1,0 +1,10 @@
+[book]
+authors = ["hiiiikey"]
+language = "en"
+multilingual = false
+src = "src"
+title = "learnhub-docs"
+
+[output.html]
+site-url = "/docs/"
+git-repository-url = "https://github.com/hiiiikey/learnhub"
