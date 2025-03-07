@@ -7,14 +7,7 @@ At **LearnHub**, we understand that everyone learns differently. That's why our 
 Each lesson on LearnHub consists of:  
 
 - **Embedded Course Video** – The primary lesson content is a **YouTube video**, uploaded by the mentor on their channel and embedded directly into the lesson's page using an iframe. 
-- **Supplementary PDFs** – Additional reading materials, worksheets, or guides to reinforce learning can be uploaded by the mentor
 - **Descriptive Texts** – A written summary, key takeaways, learning objectives, prerequisites and other important notes from the lesson.  
-
-## Why Multi-Format Learning?  
-
-- **Flexibility** – Learn at your own pace, whether you prefer watching, reading, or both.  
-- **Better Retention** – Combining **visual, textual, and interactive** elements enhances understanding.  
-- **Easy Access** – View the lesson **directly on LearnHub** without switching platforms.  
 
 ## Optimized Video Experience  
 

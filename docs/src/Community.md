@@ -15,7 +15,7 @@ Since each mentor has no more than 10 students at a time, the forums remain focu
 
 ## Why a Peer-to-Peer Approach?  
 
-LearnHub embraces the peer-to-peer learning model because we believe learning is more effective in small, engaged groups. In these groups, discussions provide practical insights beyond the lesson content. We also understand that peer support enhances problem-solving and critical thinking. It creates a supportive learning environment where students can help each other grow  
+LearnHub embraces the peer-to-peer learning model because we believe learning is more effective in small, engaged groups. In these groups, discussions provide practical insights beyond the lesson content. We also understand that peer support enhances problem-solving and critical thinking, and creates a supportive learning environment where students can help each other grow  
 
 ## How Forums Enhance Learning  
 
@@ -24,6 +24,6 @@ LearnHub embraces the peer-to-peer learning model because we believe learning is
 - **Mentor Guidance** – Mentors can provide additional resources and clarify doubts. 
 - **Long-Term Knowledge Sharing** – At LearnHub, learning does not end with watching a video or reading a document — it continues through active discussion, collaboration, and shared experiences.** 
 
-- --- 
+--- 
 
 Start exploring the forums today and become part of a thriving learning community.
