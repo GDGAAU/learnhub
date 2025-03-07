@@ -3,8 +3,8 @@ authors = ["hiiiikey"]
 language = "en"
 multilingual = false
 src = "src"
-title = "LearnHub Docs"
+title = "learnhub-docs"
 
 [output.html]
 site-url = "/docs/"
-git-repository-url = "https://github.com/hiiiikey/learnhub"
+git-repository-url = "https://github.com/gdgaau/learnhub"
